@@ -3,3 +3,8 @@
 --cor-da-fonte: ffffff
 --cor-fonte-titulos: 000000
 }
+
+body{
+background-color: var(--cor-de-fundo);
+
+}
