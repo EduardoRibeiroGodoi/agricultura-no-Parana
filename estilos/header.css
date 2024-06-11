@@ -5,8 +5,8 @@ background-image: url("../img/opengraph-parte1.png");
 
 }
 .cabecalho--menu-hamburguer{
-height: 25px;
-width: 20px;
+height: 200px;
+width: 150px;
 background-repeat: no-repeat;
 background-position: center;
 display: inline-block;
