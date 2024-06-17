@@ -1,7 +1,8 @@
 .cabecalho{
 background-color: var(--cor-de-fundo);
 background-image: url("../img/opengraph-parte1.png");
-
+display: flex;
+justify-content: space-between;
 
 }
 .cabecalho--menu-hamburguer{
