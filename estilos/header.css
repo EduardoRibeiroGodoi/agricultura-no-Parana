@@ -1,16 +1,17 @@
 .cabecalho{
 background-color: var(--cor-de-fundo);
 background-image: url("../img/opengraph-parte1.png");
-
+background-repeat: no-repeat;
 
 }
 .cabecalho--menu-hamburguer{
 height: 160px;
 width: 30px;
 background-repeat: no-repeat;
-background-position: center;
+background-position: top;
 display: inline-block;
 background-image: url("../img/🦆\ icon\ _Bars_.png");
+margin-top: 10px;
 }
 
 
