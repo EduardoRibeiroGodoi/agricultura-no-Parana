@@ -18,7 +18,12 @@ margin-top: 10px;
     display: flex;
     align-items: center;
 }
+.lista-menu{
+   display: none;
 
-
+}
+.container--botao:checked ^.lista-menu{
+    display: block;
+}
 
 
