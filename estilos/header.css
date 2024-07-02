@@ -2,7 +2,7 @@
 background-color: var(--cor-de-fundo);
 background-image: url("../img/opengraph-parte1.png");
 background-repeat: no-repeat;
-
+background: size;
 }
 .cabecalho--menu-hamburguer{
 height: 160px;
