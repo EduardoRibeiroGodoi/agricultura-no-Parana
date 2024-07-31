@@ -1,8 +1,15 @@
-
+.banner{
+    width: 100%;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    }
+    
 
 .texto1{
     color: #fff;
     font-size: 16px;
-    margin-top: 50px;
     font-family: "Inter", sans-serif;
+   justify-content: center;
+   margin: 20px;
 }
