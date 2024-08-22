@@ -19,3 +19,15 @@ background-color: var(--cor-de-fundo);
     margin-top: 130px;
 }
 
+@media (min-width: 1024px;) {
+.container--titulo{
+display: block;
+
+}
+.opcoes{
+
+    display: block;
+}
+
+
+}
