@@ -31,9 +31,13 @@ margin-top: 100px;
 display: block;
 
 }
+.cabecalho{
+    height:300px;
+
+    
+}
 .container___imagem{
-   height: 100px;
-width: 100px;
+    background-size: cover;
 }
 }
 
