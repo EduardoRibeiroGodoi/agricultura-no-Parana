@@ -16,11 +16,11 @@ background-color: var(--cor-de-fundo);
 }
 
 .img-rodape{
-    margin-top: 130px;
+    margin-top: 250px;
 }
 @media  (min-width:1024px) {
 .img-rodape{
-    width: 125%;
+    width: 100%;
 }
 
 
