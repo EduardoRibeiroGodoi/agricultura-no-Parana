@@ -20,7 +20,7 @@ background-color: var(--cor-de-fundo);
 }
 @media  (min-width:1024px) {
 .img-rodape{
-    width: 250px;
+    width: 500px;
 }
 
 
