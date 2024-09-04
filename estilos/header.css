@@ -26,7 +26,7 @@ margin-top: 100px;
     display: block;
 }
 
-@media  (min-widht:1024px) {
+@media  (min-width:1024px) {
 .container--titulo{
 display: block;
 
@@ -37,6 +37,9 @@ display: block;
     
 }
 .container___imagem{
+    background-size: cover;
+}
+.cabecalho{
     background-size: cover;
 }
 }
