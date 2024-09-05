@@ -28,7 +28,9 @@ background-color: var(--cor-de-fundo);
     width: 100%;
 }
 
-
+.img{
+    width:100% ;
+}
 
 
 
